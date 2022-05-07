@@ -1,0 +1,6 @@
+git status                  status do repositorio
+git add .                  adicionar alteração para ser commitada
+git commit -m "..."         commitar com anotação
+
+mkdir (....)                criar repositorio
+rmdir (....)/s /q           deletar repositorio

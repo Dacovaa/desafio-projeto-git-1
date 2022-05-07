@@ -1,5 +1,5 @@
 git status                  status do repositorio
-git add .                  adicionar alteração para ser commitada
+git add .                  adicionar tuda alteração para ser commitada
 git commit -m "..."         commitar com anotação
 
 mkdir (....)                criar repositorio

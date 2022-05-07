@@ -9,4 +9,3 @@ git clone (url)              clonar repositorio remoto/ para local
 git remote -v                lista os repositórios remotos atualmente configurados
 
 
-

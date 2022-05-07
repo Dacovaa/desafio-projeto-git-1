@@ -1,5 +1,7 @@
 git status                  status do repositorio
 git add .                   adicionar toda alteração para ser commitada
 git commit -m "..."         commitar com anotação
+git push                    empurrar do dispositivo local para github
+git pull                    puxar do github para dispositivo local
 mkdir (....)                criar repositorio
 rmdir (....)/s /q           deletar repositorio

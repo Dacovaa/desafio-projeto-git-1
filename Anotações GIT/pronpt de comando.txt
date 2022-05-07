@@ -1,7 +1,12 @@
 git status                  status do repositorio
 git add .                   adicionar toda alteração para ser commitada
-git commit -m "..."         commitar com anotação
-git push                    empurrar do dispositivo local para github
-git pull                    puxar do github para dispositivo local
-mkdir (....)                criar repositorio
-rmdir (....)/s /q           deletar repositorio
+git commit -m "..."          commitar com anotação para repositorio remoto
+git push                     empurrar do dispositivo local para github
+git pull                     puxar do github para dispositivo local
+mkdir (....)                 criar repositorio
+rmdir (....)/s /q            deletar repositorio
+git clone (url)              clonar repositorio remoto/ para local
+git remote -v                lista os repositórios remotos atualmente configurados
+
+
+
